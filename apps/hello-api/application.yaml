@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USER/hello-gitops.git
+    repoURL: https://github.com/tarakng/hello-api-gitops.git
     targetRevision: main
     path: apps/hello-api
     directory:
