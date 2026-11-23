@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: hello-api
-          image: us-central1-docker.pkg.dev/PROJECT_ID/hello-repo/hello-api:bootstrap
+          image: us-central1-docker.pkg.dev/project-9c285097-4831-4337-965/hello-repo/hello-api:e2252aa29e44f179125e5e507e4c107225b8e9d1
           ports:
             - containerPort: 3000
           resources:
